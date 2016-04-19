@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">StudyJams2A</string>
+    <string name="total" translatable="false">需要费用:%1$s元</string>
+</resources>
